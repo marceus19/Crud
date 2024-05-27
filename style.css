@@ -1,0 +1,36 @@
+body {
+  background-image: url(images/bg2.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+.container {
+  width: 400px;
+  margin: 50px auto;
+  padding: 20px;
+  /* border: 2px solid red; */
+  font-family: arial;
+  font-size: 16px;
+  background-color: rgba(115, 6, 6, 0.855);
+  border-radius: 20px;
+}
+h2 {
+  text-align: center;
+}
+.container div {
+  text-align: center;
+}
+input {
+  width: 250px;
+  padding: 5px;
+}
+button {
+  width: 70px;
+  padding: 10px;
+  margin: 10px;
+  font-size: 16px;
+  background-color: rgb(115, 6, 6);
+  border: none;
+  color: rgb(0, 0, 0);
+  border-radius: 10px;
+}
